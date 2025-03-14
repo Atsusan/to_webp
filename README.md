@@ -33,7 +33,7 @@ mkdir input_images
    
 準備が整ったら、Python スクリプトを実行します。
 
-python script.py
+python webp.py
 
 変換が成功すると、output_webp フォルダに WebP 形式の画像が出力されます。
 
@@ -82,5 +82,5 @@ input_dir（input_images）にある画像を output_dir（output_webp）へ変�
 input_images フォルダに .jpg, .jpeg, .png の画像を用意する。
 
 スクリプトを実行：
-python script.py
+python webp.py
 output_webp フォルダに .webp 形式の画像が保存される。
